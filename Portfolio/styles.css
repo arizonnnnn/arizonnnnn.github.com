@@ -1,0 +1,42 @@
+header {
+	color: rgb(255, 255, 255);
+  background: linear-gradient(to bottom, #eaeaea, #4736e2); /* Dégradé de bleu à vert */
+	border: 1px solid black;
+    text-align: center;
+    border-radius: 20px;
+  }
+
+  section {
+    background-color: #e6e6e6;
+    padding: 20px;
+    border-radius: 0px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+  body {
+    font-family: Calibri, sans-serif;
+    margin: 1px;
+    padding: 10px;
+    background-color: #e6e6e6; /* Couleur de fond */
+    background-image:url(https://imgs.search.brave.com/Hsv9HINZWJ36Du-tqqxZ1tHQcFvRW5NZ_P-ETjow1bU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXM0LmFscGhhY29k/ZXJzLmNvbS82ODEv/NjgxNTcxLmpwZw);
+    background-size :cover;
+    background-repeat: no-repeat;
+  }
+
+  nav{
+    color: #4736e2;
+  }
+
+footer {
+  background: linear-gradient(to bottom, #fbf9f9, #4736e2); /* Dégradé de bleu à vert */
+  color: #000000;
+  padding: 10px;
+  text-align: center;
+  position: end;
+  bottom: 0;
+  width: 99%;
+  border-radius: 0px;
+}
+p {
+  color: rgb(0, 0, 0);
+}
+
